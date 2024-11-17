@@ -3773,7 +3773,6 @@ body{
 ===========================*/
 .footer{
 	position:relative;
-	text-align: right;
 }
 .footer .footer-top{
 	padding:100px 0px;
@@ -3854,6 +3853,7 @@ body{
 	padding-bottom:20px;
 	text-transform:capitalize;
 	position:relative;
+	
 }
 .footer .single-footer h2::before{
 	position: absolute;
